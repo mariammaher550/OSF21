@@ -1,0 +1,526 @@
+    1  
+    2  sudo snap install flutter --classic
+    3  flutter sdk-path
+    4  flutter doctor
+    5  sudo apt install openjdk-8-jdk
+    6  sudo snap install android-studio --classic
+    7  android-studio
+    8  flutter doctor
+    9  flutter doctor --android-licenses
+   10  flutter doctor
+   11  sudo apt upgrade
+   12  sudo apt update
+   13  
+   14  sudo apt update
+   15  sudo apt upgrade
+   16  sudo apt install git
+   17  uname -r
+   18  sudo apt uodate
+   19  sudo apt update
+   20  sudo apt upgrade
+   21  sudo apt install docker.io
+   22  sudo systemctl enable --now docker
+   23  docker --version
+   24  docker run hello-world
+   25  docker run --help
+   26  sudo apt update
+   27  sudo apt install snapd
+   28  sudo snap install telegram-desktop
+   29  sudo apt-get update
+   30  sudo apt-get install apt-transport-https
+   31  sudo sh -c 'wget -q0- https://d1-ss1.google.com/linux_signing_key.pub | apt-key add -'
+   32  
+   33  sudo sh -c 'wget -q0- https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -'
+   34  flutter doctor
+   35  which flutter
+   36  dart sdk-path
+   37  dart --version
+   38  sudo apt-get update
+   39  sudo apt-get install dart
+   40  dart doctor
+   41  flutter doctor
+   42  sudo snap install vlc
+   43  sudo apt install spotify
+   44  sudo docker ps
+   45  docker
+   46  ls
+   47  mkdir ~/Projects
+   48  cd ~/Projects/
+   49  ls
+   50  git clone https://gitlab.com/student-union-it-department/student-union-web
+   51  ls
+   52  cd student-union-web/
+   53  ls
+   54  sudo docker-compose build 
+   55  sudo apt-get install docker-compose
+   56  sudo docker-compose build 
+   57  sudo docker-compose up
+   58  vim nginx/nginx.conf 
+   59  sudo apt-get install vim
+   60  vim nginx/nginx.conf 
+   61  sudo docker-compose build 
+   62  sudo docker-compose up
+   63  vim nginx/nginx.conf 
+   64  sudo docker-compose build 
+   65  sudo docker-compose up
+   66  vim nginx/nginx.conf 
+   67  vim docker-compose.yml 
+   68  sudo docker-compose build 
+   69  sudo docker-compose up
+   70  vim docker-compose.yml 
+   71  vim nginx/nginx.conf 
+   72  vim docker-compose.yml 
+   73  sudo docker-compose logs nginx
+   74  sudo docker-compose down
+   75  sudo docker-compose up
+   76  vim docker-compose.yml 
+   77  vim nginx/nginx.conf 
+   78  sudo docker-compose build
+   79  sudo docker-compose build nginx
+   80  vim docker-compose.yml 
+   81  vim nginx/nginx.conf 
+   82  sudo docker p
+   83  sudo docker ps
+   84  sudo docker-compose down
+   85  sudo docker-compose up
+   86  ls
+   87  cat docker-compose.yml 
+   88  docker ps
+   89  sudo docker ps
+   90  ls
+   91  sudo docker-compose up
+   92  docker
+   93  sudo apt install spotify-desktop
+   94  sudo apt install spotify
+   95  snap install spotify
+   96  open spotify
+   97  flutter pub upgrade --major-versions
+   98  cp
+   99  cp home
+  100  cp home op
+  101  docker ps
+  102  docker
+  103  docker container
+  104  docker ls
+  105  ls docker
+  106  docker ps
+  107  docker start
+  108  docker satrt mobile_app
+  109  docker start mobile_app_api
+  110  docker start student-union-wed
+  111  docker start student-union-web
+  112  docker start api
+  113  sudo docker ps
+  114  docker ps -a
+  115  sudo docker ps -a
+  116  sudo docker list 
+  117  sudo docker ps -l
+  118  sudo docker start student-union-web_nginx_
+  119  sudo docker start student-union-web_ngnix_1
+  120  sudo docker start 6b5613bc4b75
+  121  sudo docker ps
+  122  sudo docker run 6b5613bc4b75
+  123  sudo docker run student-union-api
+  124  sudo docker run student-union-mobile-dev
+  125  docker images
+  126  sudo docker images
+  127  sudo usermod -aG docker $USER
+  128  newgrp docker
+  129  docker ps
+  130  sudo docker ps
+  131  flutter pub upgrade --major-versions
+  132  cp androidstudioprojects
+  133  cp andriodStudentProjects
+  134  cp --help
+  135  docker images
+  136  traceroute gitlab.com
+  137  docker run student-union-web_django
+  138  docker ps
+  139  docker ps --all
+  140  history
+  141  history | grep "docker run"
+  142  docker run student-union-web_django runserver
+  143  docker-compose up
+  144  ls
+  145  pwd
+  146  cd Projects/student-union-web/
+  147  docker-compose up
+  148  sudo install clion
+  149  snap install clion
+  150  sudo apt mingw-64
+  151  sudo apt install mingw-64
+  152  sudo apt -get update -y
+  153  sudo apt-get update -y
+  154  sudo apt-get install -y mingw-w64
+  155  sudo apt-get update
+  156  sudo apt-get install build-essentials
+  157  sudo apt-get install built-essential
+  158  sudo apt-get install build-essential
+  159  sudo apt install g++
+  160  docker compose up
+  161  docker compose-up
+  162  docker -composeup
+  163  docker -compose up
+  164  docker -compose run
+  165  docker-compose up
+  166  docker compose up
+  167  docker compose-up
+  168  docker --help
+  169  dcoker dp compose
+  170  docker dp compose
+  171  docker -compose up
+  172  sudo snap install intellij-idea*community --classic
+  173  sudo install intellij-idea-community --classic
+  174  sudo snap install intellij-idea-community --classic
+  175  docker--compose up
+  176  snap docker-compose up
+  177  docker-compose up
+  178  docker -compose up
+  179  docker-compose up
+  180  docker-compose down
+  181  psql
+  182  postgre
+  183  postgres
+  184  cat /var/log/letsencrypt/letsencrypt.log
+  185  docker build -t suweb .
+  186  sudo apt-get install posgres1l
+  187  sudo apt-get install posgresql
+  188  sudo apt install postgresql postgresql-contrib
+  189  ls
+  190  docker build -t suweb .
+  191  docker-compose up
+  192  git status
+  193  git chechout Makar
+  194  git chechout makar
+  195  git checkhout makar
+  196  git checkout makar
+  197  ls
+  198  docker-compose down
+  199  docker-compose up
+  200  docker -compose up
+  201  docker-compose up
+  202  sudo snap install pycharm-community --classic
+  203  pycharm--community
+  204  pycharm-community
+  205  sudo apt update
+  206  sudo apt install software-properties-common
+  207  sudo add-apt-repository ppa:deadsnakes/ppa
+  208  sudo apt install python3.8
+  209  python3.8 --version
+  210  sudo snap install pycharm-professional --classic
+  211  docker-compose up
+  212  pycharm-professional
+  213  sudo apt-get install python3-dev python3-pip python3-virtualenv
+  214  docker-compose up --build --force-recreate
+  215  docker-compose --build -recreate
+  216  docker-compose build
+  217  docker-compose up -d --force-recreate
+  218  docker-compose up
+  219  POST https://127.0.0.1/api/getCategorys
+  220  curl POST https://127.0.0.1/api/getCategorys
+  221  sudo apt install curl
+  222  curl POST https://127.0.0.1/getCategorys
+  223  curl -X POST http://127.0.0.1/api/getCategorys
+  224  docker-compose up
+  225  ls
+  226  ls-id
+  227  docker ps
+  228  POST/containers/0b4ce59c08ba start
+  229  POST /containers/0b4ce59c08ba start
+  230  docker restart $(docker ps -q)
+  231  docker-compose up
+  232  sudo apt-get update -y
+  233  sudo apt-get install -y gnuplot
+  234  open spotify
+  235  gopen
+  236  gnuplot
+  237  snap install opera
+  238  sudo apt install discord
+  239  sudo apt update
+  240  sudo apt install build-essential zliblg-dev \
+  241  sudo apt install software-properties-common
+  242  sudo add-apt-repository ppa:deadsnakes/ppa
+  243  sudo apt update
+  244  sudo apt install python3.8
+  245  python --version
+  246  sudo apt install python3/9
+  247  sudo apt install python3.9
+  248  pyhthon --version
+  249  python -version
+  250  python3 --version
+  251  open idle
+  252  sudo apt-get update
+  253  sudp apt-get install idle3
+  254  sudo apt-get install idle3
+  255  idle
+  256  idle3
+  257  idle
+  258  sudo snap install skype --classic
+  259  flutter pub add firebase_auth
+  260  flutter pub add firebase_auth
+  261  flutter pub add cloud_firestore
+  262  java -version
+  263  javac - version
+  264  javac -version
+  265  flutter pub add provider
+  266  git remote add origin git@github.com:mariammaher550/lesson1.git
+  267  git branch -M main
+  268  git push -u origin main
+  269  git config --global user.name "Mariam Abuelfotouh"
+  270  git config --global user.email "mariammaher550@gmail.com"
+  271  flutter packages get
+  272  
+  273  flutter pub upgrade --major-versions
+  274  gradlew signingReport
+  275  FirebaseAuthDemo [signingReport]
+  276  sudo apt-get update
+  277  sudo apt-get install git
+  278  git--version
+  279  git --version
+  280  git config --global user.name "Mariam Abuelfotouh"
+  281  git config --global user.email "mariammaher550@gmail.com
+  282  "
+  283  flutter clean
+  284  flutter package pub upgrade
+  285  flutter packages pub upgrade
+  286  flutter pub outdated
+  287  flutter pub run build_runner build
+  288  darte migrate --apply changes
+  289  dart migrate --apply changes
+  290  dart migrate --apply-changes
+  291  echo "# simple-authentication-app" >> README.md
+  292  git init
+  293  git add README.md
+  294  git commit -m "first commit"
+  295  git branch -M main
+  296  git remote add origin https://github.com/mariammaher550/simple-authentication-app.git
+  297  git push -u origin main
+  298  open bash
+  299  git pull
+  300  sudo apt-get update
+  301  sudo apt-get install git
+  302  git --version
+  303  git config --global user.name "Mariam Abueelfotouh"
+  304  git config --global user.email "mariammaher550@gmail.com"
+  305  git remote -v
+  306  git push origin master
+  307  git push
+  308  git push --set-upstream origin main
+  309  git remote -vgit remote origin https://github.com/mariammaher550/simple-authentication-app git remote set-url origin https://github.com/mariammaher550/simple-authentication-app
+  310  git remote -vgit remote origin https://github.com/mariammaher550/simple-authentication-app
+  311  git remote set-url --push https://github.com/mariammaher550/register-and-sign-in-app git remorse set-url --push https://github.com/mariammaher550/simple-authentication-app @https://github.com/mariammaher550/simple-authentication-app 
+  312  git remorte set-url --push https://github.com/mariammaher550/simple-authentication-app @https://github.com/mariammaher550/simple-authentication-app 
+  313  git remote set-url --push https://github.com/mariammaher550/simple-authentication-app @https://github.com/mariammaher550/simple-authentication-app 
+  314  git remote --verbose
+  315  git remote -v\
+  316  git remote -v
+  317  git remote get-url
+  318  git remote get-url --all
+  319  git remote get-url --all origin
+  320  git remote set-url --all origin https://github.com/mariammaher550/simple-authentication-app
+  321  git remote set-url --push origin https://github.com/mariammaher550/simple-authentication-app
+  322  git remote get-url --all origin
+  323  git remote --verbose
+  324  git remote set-url --fetch origin https://github.com/mariammaher550/simple-authentication-app
+  325  git remote set-url --add https://github.com/mariammaher550/simple-authentication-app
+  326  git remote set-url --add origin https://github.com/mariammaher550/simple-authentication-app
+  327  git remote get-url --all
+  328  git remote get-url --all origin
+  329  get remobe -verbose
+  330  git remote --verbose
+  331  git pull
+  332  git remote set-url origin https://github.com/mariammaher550/simple-authentication-app
+  333  git remote set-url --delete origin git@https://github.com/mariammaher550/simple-authentication-app
+  334  git remote --verbose
+  335  git pull
+  336  sudo apt update
+  337  sudo apt install discord
+  338  git remote set-url origin https://github.com/Ozziekins/Habit-building-app
+  339  git remote set-url master https://github.com/Ozziekins/Habit-building-app
+  340  git config --list
+  341  git config --global user.name "Mariam Abuelfotouh"
+  342  git config --list --show-origin
+  343  git -verbose
+  344  git remote -v
+  345  git remote -verbose
+  346  git remote --verbose
+  347  git --verbose
+  348  git commit -v
+  349  git commit --verbose
+  350  git remote 
+  351  git remote set-url origin https://github.com/Ozziekins/Habit-building-app
+  352  git remote -v
+  353  git remote set-url origin/master https://github.com/Ozziekins/Habit-building-app
+  354  git remote set-url Habit-building-app https://github.com/Ozziekins/Habit-building-app
+  355  git remote add Habit-building-app https://github.com/Ozziekins/Habit-building-app
+  356  git remote -verbose
+  357  git remote --verbose
+  358  git checkout -b mariam
+  359  git push Habit-building-app mariam
+  360  git push -u Habit-building-app mariam
+  361  git checkout mariam
+  362  git push Habit-building-app mariam
+  363  git push 
+  364  git push Habit*building-app
+  365  git push --set-upstream Habit-building-app mariam
+  366  git push Habit-building-app
+  367  git push origin mariam
+  368  git push origin
+  369  git push --set-upstream origin mariam
+  370  git push --set-upstream Hait-building-app
+  371  git push --set-upstream Habit-building-app
+  372  flutter pub upgrade --major-versions
+  373  flutter doctor
+  374  flutter clean
+  375  flutter pub upgrade --major--versions
+  376  flutter pub upgrade --major-versions
+  377  flutter packages get
+  378  flutter pub ugrade --major-versions
+  379  flutter pub upgrade --major-versions
+  380  flutter doctor
+  381  flutter doctor info
+  382  flutter -version
+  383  flutter --version
+  384  git remote add origin https://github.com/mariammaher550/user-list.git
+  385  git init
+  386  get add README.md
+  387  git add README.md
+  388  git commit -m ""
+  389  git commit -m "Implemented concepts of adding , editing and deleteing"
+  390  git branch -M main
+  391  git remote add origin https://github.com/mariammaher550/user-list.git
+  392  git push -u origin main
+  393  git remote
+  394  gite remote -v
+  395  git remote -v
+  396  git -u push
+  397  git push
+  398  flutter pub addd provider
+  399  flutter pub add provider
+  400  flutter version
+  401  flutter -v
+  402  flutter --version
+  403  flutter channel stable
+  404  flutter run --no-sound-null-safety
+  405  systemctl statues bluetooth
+  406  systemctl status bluetooth
+  407  whoami
+  408  hostname
+  409  echo "Hello"
+  410  echo gfg
+  411  echo 345
+  412  echo %$#@
+  413  echo #
+  414  echo $
+  415  echo #####
+  416  ls
+  417  man
+  418  man man
+  419  ls --help
+  420  nano
+  421  ls
+  422  ls temp.txt
+  423  cat temp.txt
+  424  cat temp
+  425  cat head 1 temp
+  426  cat temp head 1
+  427  head -n 3
+  428  cat head -n 1 temp
+  429  head -n 1 temp
+  430  tail -n 2 temp
+  431  cat temp
+  432  less temp
+  433  nano
+  434  less new.txt
+  435  grep f temp
+  436  grep v new.txt
+  437  hostname
+  438  PATH
+  439  ~PATH
+  440  pwd
+  441  mkdir tempD
+  442  ls
+  443  cd tempD
+  444  pwd
+  445  exit
+  446  cd tempD
+  447  cd ..
+  448  echo "#"
+  449  ls > temp
+  450  cat temp
+  451  ls > new.txt
+  452  cat new.txt
+  453  ls
+  454  ls sort reverse
+  455  sort reverse new.txt
+  456  sort -r new.txt
+  457  ls | sort-r | tail -n 3
+  458  ls | sort -r | tail -n 3
+  459  tail -n 3 new.txt
+  460  rm new.txt
+  461  ls
+  462  nano
+  463  cat main.cpp
+  464  echo main.cpp
+  465  execute main.cpp
+  466  excute main.cpp
+  467  sort temp &
+  468  fg
+  469  fg %1
+  470  nano &
+  471  fg %1
+  472  mkdir ~/week1
+  473  cd ~/week1
+  474  cat *.gcc
+  475  cd ~/user/bin
+  476  cd ~/bin
+  477  cd ~/user/bin
+  478  cd..
+  479  cd ..
+  480  nano cmds
+  481  cat cmds
+  482  cat cmds / sort -r
+  483  cmds | sort --r
+  484  cat cmds | sort -r
+  485  cat cmds | sort
+  486  history > week
+  487  mkdir ~/week1
+  488  cd~/week1
+  489  cd ~/week1
+  490  ../
+  491  ..
+  492  .
+  493  gdit ~/week1/main.c
+  494  gedit ~/week1/main.c
+  495  gcc main.c -o ex4
+  496  ./ex4
+  497  $date
+  498  date
+  499  gnu
+  500  nenno
+  501  nano
+  502  sh ex3.sh
+  503  sleep(3)
+  504  sleep 3
+  505  nano ex3.sh
+  506  sh ex3.sh
+  507  history -a
+  508  history -w ~/ex2.txt
+  509  vim ex2.txt
+  510  cd ~/week1
+  511  date
+  512  sleep 2
+  513  date
+  514  vim ~/ex2.txt
+  515  cd ~/week1
+  516  nano ex2.txt
+  517  history -a
+  518  nano ex2.txt
+  519  history -w ~/ex2.txt
+  520  date
+  521  date 
+  522  date
+  523  history
+  524  history -w ~/ex2.txt
+  525  history > ~/ex2.txt
+  526  history >> ex2.txt
