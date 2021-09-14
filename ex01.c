@@ -4,7 +4,12 @@
 #include <stdlib.h>
 
 int main (){
-    printf("before fork()\n");
-    int x = fork();
-    printf("After fork()");
+  int n = 5;
+    for(int i = 0; i < 10; i++) {
+        int x = fork();
+        if (x != 0) {
+            printf("Hello from parent [%d - %d]\n", getpid(), n);
+        } else {
+            printf("Hello from child [%d - %d]\n", getpid(), n);
+        }
 }
