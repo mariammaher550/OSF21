@@ -1,0 +1,1 @@
+A physical address is a real hardware memory on the other hand a virtual memory is like a virtual store viewed only by the process. All virtual addresses should be mapped to physical ones. They are mapping is done by MMU by the help of page tables
