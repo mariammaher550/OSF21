@@ -1,0 +1,48 @@
+top - 22:45:26 up 13:06,  1 user,  load average: 0,88, 1,00, 0,95
+Tasks: 475 total,   1 running, 474 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3,3 us,  1,6 sy,  0,0 ni, 95,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :  15836,7 total,    356,3 free,   9807,6 used,   5672,8 buff/cache
+MiB Swap:   2048,0 total,   2011,0 free,     37,0 used.   4973,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND  
+   2491 root      20   0  434,8m 189,2m  74,5m S  10,5   1,2  20:00.75 Xorg     
+   3779 mariam    20   0 1626,3m 172,6m  83,4m S   6,4   1,1  23:59.88 skypefo+ 
+   3760 mariam    20   0 2841,7m 394,4m  85,3m S   5,5   2,5  21:25.87 teams    
+   4227 mariam    20   0   40,7g 235,6m 129,0m S   5,5   1,5  20:53.26 skypefo+ 
+   2682 mariam    20   0 4658,1m 615,1m 119,2m S   4,5   3,9  26:16.68 gnome-s+ 
+   3252 mariam    20   0  914,2m 171,6m  74,8m S   4,5   1,1  17:58.95 teams    
+   7664 mariam    20   0   16,6g 321,5m 172,5m S   2,3   2,0  21:40.87 chrome   
+   8517 mariam    20   0   74,3g   1,8g  55,5m S   2,3  11,9  38:48.10 java     
+  56054 mariam    20   0  802,7m  48,8m  38,4m S   2,3   0,3   0:00.67 gnome-t+ 
+    287 root     -51   0    0,0m   0,0m   0,0m S   1,8   0,0   1:00.65 irq/51-+ 
+   1081 root      20   0  276,0m   9,4m   8,5m S   1,4   0,1   5:06.23 thermald 
+   1046 message+  20   0   10,0m   6,4m   3,7m S   0,9   0,0   0:29.03 dbus-da+ 
+   1047 root      20   0  409,6m  20,5m  16,0m S   0,9   0,1   1:25.02 Network+ 
+   7710 mariam    20   0   16,3g 113,6m  84,7m S   0,9   0,7   4:13.64 chrome   
+   8938 mariam    20   0   20,4g 152,0m  86,5m S   0,9   1,0   3:45.14 chrome   
+  25421 mariam    20   0 1025,8m 105,3m  75,2m S   0,9   0,7   2:49.73 gnome-c+ 
+  58067 mariam    20   0   20,5g 278,4m 108,9m S   0,9   1,8   1:37.37 chrome   
+Fields Management for window 1:Def, whose current sort field is %CPU
+   Navigate with Up/Dn, Right selects for move then <Enter> or Left commits,
+   'd' or <Space> toggles display, 's' sets sort.  Use 'q' or <Esc> to end!
+
+* PID     = Process Id      PGRP    = Process Group   OOMs    = OOMEM Score c
+* USER    = Effective Use   TTY     = Controlling T   ENVIRON = Environment v
+* PR      = Priority        TPGID   = Tty Process G   vMj     = Major Faults 
+* NI      = Nice Value      SID     = Session Id      vMn     = Minor Faults 
+* VIRT    = Virtual Image   nTH     = Number of Thr   USED    = Res+Swap Size
+* RES     = Resident Size   P       = Last Used Cpu   nsIPC   = IPC namespace
+* SHR     = Shared Memory   TIME    = CPU Time        nsMNT   = MNT namespace
+* S       = Process Statu   SWAP    = Swapped Size    nsNET   = NET namespace
+* %CPU    = CPU Usage       CODE    = Code Size (Ki   nsPID   = PID namespace
+* %MEM    = Memory Usage    DATA    = Data+Stack (K   nsUSER  = USER namespac
+* TIME+   = CPU Time, hun   nMaj    = Major Page Fa   nsUTS   = UTS namespace
+* COMMAND = Command Name/   nMin    = Minor Page Fa   LXC     = LXC container
+  PPID    = Parent Proces   nDRT    = Dirty Pages C   RSan    = RES Anonymous
+  UID     = Effective Use   WCHAN   = Sleeping in F   RSfd    = RES File-base
+  RUID    = Real User Id    Flags   = Task Flags <s   RSlk    = RES Locked (K
+  RUSER   = Real User Nam   CGROUPS = Control Group   RSsh    = RES Shared (K
+  SUID    = Saved User Id   SUPGIDS = Supp Groups I   CGNAME  = Control Group
+  SUSER   = Saved User Na   SUPGRPS = Supp Groups N   NU      = Last Used NUM
+  GID     = Group Id        TGID    = Thread Group 
+  GROUP   = Group Name      OOMa    = OOMEM Adjustm
