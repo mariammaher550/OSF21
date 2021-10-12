@@ -1,0 +1,1 @@
+Since we have 16 bit and 8kb per page so the offset will be from 0 to 8kb which is 2 raised to the power of 13 so that leaves us with 3 bits to the page number therefore we will have 2 raised to the power of 3 which is 8 pages 
