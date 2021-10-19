@@ -1,0 +1,11 @@
+to increase hit ratio we can simply request same number of pages frequently and consectively 
+, for example if we have 5 place sin page frame we request only 5 pages from memory and 
+keep requesting them. Thus leading to increased hit ratio.
+
+However, to increase miss ratio we can simply request all pages for example, 
+if we have 5 places in page frame and 100 pages in total we can call all 100 pages in sequence 
+in that way the miss ratio will increase.
+
+#reasons that lead to change in hit/miss ratio
+1- frequently calling specific pages in pages frame (high hit ratio)
+2- calls different pages than what in page frame (high miss ratio)
