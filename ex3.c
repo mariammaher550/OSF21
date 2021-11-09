@@ -21,7 +21,7 @@ int main(){
             int cnt = 0;
             while(true) {
                 ssize_t b = read(fd, &ev1, sizeof(ev1));
-          
+                //released
                 if((ev1.value == 0 || ev1.value == 1) && ev1.type == EV_KEY )
                 {
                     seq[cnt] = ev1.code;
@@ -29,14 +29,14 @@ int main(){
                 }
                 if(cnt == 2)
                 {
-                    if(seq[0] == 'P' && seq[1] == 'E')
+                    if(seq[0] == 80 && seq[1] == 69)
                     {
                         printf("I PASSED\n");
                     }
                 }
                 else if (cnt == 3)
                 {
-                    if(seq[0] == 'C' && seq[1] == 'A' && seq[2] == 'P')
+                    if(seq[0] == 67 && seq[1] == 65 && seq[2] == 80)
                     {
                         cnt = 0;
                         memset(seq, 0, sizeof (seq));
@@ -47,3 +47,5 @@ int main(){
     }
     fflush(stdout);
 }
+
+
