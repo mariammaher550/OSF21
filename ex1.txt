@@ -44,3 +44,5 @@
 
 
 dma1 -> it is Data Memory Adress register 1 
+pic1 -> it is Peripherical Interface Controller
+timer1 - 16-bit timer
